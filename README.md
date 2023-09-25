@@ -1,4 +1,4 @@
-![logo](https://github.com/RYGENN/anupam/blob/main/coding.jpg)
+![logo](https://github.com/RYGENN/anupam/blob/main/coding2.jpg)
 <h1 align="center">Hi 👋, I'm ANUPAM MAHATO</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
