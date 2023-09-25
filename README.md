@@ -1,12 +1,7 @@
-![MasterHead](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
+![MasterHead] (https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
 <h1 align="center">Hi 👋, I'm ANUPAM MAHATO</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rygenn&label=Profile%20views&color=0e75b6&style=flat" alt="rygenn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rygenn" alt="rygenn" /></a> </p>
-
 - 🔭 I’m currently working on **E-commerce Dev**
 
 - 💬 Ask me about **Javascript,react**
