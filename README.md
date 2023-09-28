@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Javascript,react**
 - 📫 How to reach me **anupammahato357@gmail.com**
-- ⚡ Fun fact **Coders are Lazy**
+- ⚡ Fun fact **I don't try and do things perfectly,i try and get them to work...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
