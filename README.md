@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/anupammahato"><img src="https://api.daily.dev/devcards/afc1c4222f77448fbb809410854892e2.png?r=yge" width="400" alt="Anupam Mahato's Dev Card"/></a>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/?logo=twitter&style=for-the-badge" alt="khushisingh028" /></a> </p>
+
 
 # 💫 About Me:
 
