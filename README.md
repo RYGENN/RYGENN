@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anupam Mahato</h1>
 <h3 align="center">Full Stack Web Developer, Postman API Expert and Open Source Contributor from Kolkata, India</h3>
 
-[<a href="https://app.daily.dev/anupammahato"><img src="<a href="https://app.daily.dev/anupammahato"><img src="https://api.daily.dev/devcards/afc1c4222f77448fbb809410854892e2.png?r=yge" width="400" alt="Anupam Mahato's Dev Card"/></a>]
+[<a href="https://app.daily.dev/anupammahato"><img src="https://api.daily.dev/devcards/afc1c4222f77448fbb809410854892e2.png?r=yge" width="400" alt="Anupam Mahato's Dev Card"/></a>]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
 
