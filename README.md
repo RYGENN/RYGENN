@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend Development, Backend Development, Databases, API, Version Control, Data Structures**
 
-- 📫 How to reach me **anupammahto357@gmail.com**
+- 📫 How to reach me **anupammahato357@gmail.com**
 
 
 ## 🌐 Socials:
