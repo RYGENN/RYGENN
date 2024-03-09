@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anupam Mahato</h1>
 <h3 align="center">Learning Full Stack Web Development</h3>
 
-<a href="https://app.daily.dev/anupammahato"><img src="https://api.daily.dev/devcards/afc1c4222f77448fbb809410854892e2.png?r=5gd" width="400" alt="RYGENN's Dev Card"/></a>
-
+<a href="https://app.daily.dev/anupammahato"><img src="https://api.daily.dev/devcards/v2/pSlbas8cTri8IQ2qqcfpD.png?r=1tf&type=wide" width="652" alt="RYGENN's Dev Card"/></a>
 
 # 💫 About Me:
 
