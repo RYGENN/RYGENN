@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-- 🌱 **I'm currently learning Data Structures in Java, React,Tailwind CSS, Backend, Postman API**
+- 🌱 **I'm currently learning Data Structures in Java, TypeScript, Backend, Postman API**
 
 - 💬 Ask me about **Frontend Development, Backend Development, Databases, API, Version Control, Data Structures**
 
