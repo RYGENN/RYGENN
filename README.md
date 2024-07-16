@@ -1,6 +1,5 @@
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/khushis28/khushis28/assets/131535612/411f567c-8512-44e3-bdf8-b7fcef10b23d)
 
-<h1 align="center">Hi 👋, I'm Anupam Mahato</h1>
+<h1 align="center">Hi 👋, I'm Anupam Mahato , an IT Undergrad</h1>
 <h3 align="center">Learning Full Stack Web Development</h3>
 
 
